@@ -1,0 +1,137 @@
+@font-face {
+  font-family: 'stuffs-icons';
+  src:
+    url('fonts/stuffs-icons.ttf?sotals') format('truetype'),
+    url('fonts/stuffs-icons.woff?sotals') format('woff'),
+    url('fonts/stuffs-icons.svg?sotals#stuffs-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'stuffs-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.stuffs-cancel_presentation:before {
+  content: "\e921";
+}
+.stuffs-tools:before {
+  content: "\e923";
+}
+.stuffs-info-outline:before {
+  content: "\e924";
+}
+.stuffs-github:before {
+  content: "\e920";
+}
+.stuffs-link:before {
+  content: "\e922";
+}
+.stuffs-timer:before {
+  content: "\e91f";
+}
+.stuffs-trophy:before {
+  content: "\e91e";
+}
+.stuffs-package:before {
+  content: "\e91c";
+}
+.stuffs-truck1:before {
+  content: "\e91d";
+}
+.stuffs-check-circle:before {
+  content: "\e917";
+}
+.stuffs-fast-delivery:before {
+  content: "\e907";
+}
+.stuffs-check-square:before {
+  content: "\e918";
+}
+.stuffs-check:before {
+  content: "\e919";
+}
+.stuffs-home:before {
+  content: "\e91a";
+}
+.stuffs-mail-list-subscribe:before {
+  content: "\e91b";
+}
+.stuffs-basket:before {
+  content: "\e900";
+}
+.stuffs-burger-menu:before {
+  content: "\e901";
+}
+.stuffs-chat:before {
+  content: "\e902";
+}
+.stuffs-claret-down:before {
+  content: "\e903";
+}
+.stuffs-claret-left:before {
+  content: "\e904";
+}
+.stuffs-claret-right:before {
+  content: "\e905";
+}
+.stuffs-claret-up:before {
+  content: "\e906";
+}
+.stuffs-email:before {
+  content: "\e908";
+}
+.stuffs-facebook-f:before {
+  content: "\e909";
+}
+.stuffs-half-star:before {
+  content: "\e90a";
+}
+.stuffs-instagram:before {
+  content: "\e90b";
+}
+.stuffs-location:before {
+  content: "\e90c";
+}
+.stuffs-login:before {
+  content: "\e90d";
+}
+.stuffs-phone:before {
+  content: "\e90e";
+}
+.stuffs-reddit:before {
+  content: "\e90f";
+}
+.stuffs-search:before {
+  content: "\e910";
+}
+.stuffs-star-svg:before {
+  content: "\e911";
+}
+.stuffs-telegram:before {
+  content: "\e912";
+}
+.stuffs-three-dots-horizontal:before {
+  content: "\e913";
+}
+.stuffs-three-dots-vertical:before {
+  content: "\e914";
+}
+.stuffs-twitter:before {
+  content: "\e915";
+}
+.stuffs-user:before {
+  content: "\e916";
+}
