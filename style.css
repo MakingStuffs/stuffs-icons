@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'stuffs-icons';
   src:
-    url('fonts/stuffs-icons.ttf?sotals') format('truetype'),
-    url('fonts/stuffs-icons.woff?sotals') format('woff'),
-    url('fonts/stuffs-icons.svg?sotals#stuffs-icons') format('svg');
+    url('fonts/stuffs-icons.ttf?1ynjg5') format('truetype'),
+    url('fonts/stuffs-icons.woff?1ynjg5') format('woff'),
+    url('fonts/stuffs-icons.svg?1ynjg5#stuffs-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -24,6 +24,15 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.stuffs-update:before {
+  content: "\e925";
+}
+.stuffs-refresh:before {
+  content: "\e926";
+}
+.stuffs-add_circle_outline:before {
+  content: "\e927";
+}
 .stuffs-cancel_presentation:before {
   content: "\e921";
 }
