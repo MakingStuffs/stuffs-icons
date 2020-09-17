@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'stuffs-icons';
   src:
-    url('fonts/stuffs-icons.ttf?1ynjg5') format('truetype'),
-    url('fonts/stuffs-icons.woff?1ynjg5') format('woff'),
-    url('fonts/stuffs-icons.svg?1ynjg5#stuffs-icons') format('svg');
+    url('fonts/stuffs-icons.ttf?qx74yw') format('truetype'),
+    url('fonts/stuffs-icons.woff?qx74yw') format('woff'),
+    url('fonts/stuffs-icons.svg?qx74yw#stuffs-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -24,6 +24,42 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.stuffs-css3:before {
+  content: "\e928";
+  color: #1572b6;
+}
+.stuffs-sass:before {
+  content: "\e929";
+  color: #c69;
+}
+.stuffs-shopify:before {
+  content: "\e92a";
+  color: #7ab55c;
+}
+.stuffs-wordpress:before {
+  content: "\e92b";
+  color: #21759b;
+}
+.stuffs-php:before {
+  content: "\e92c";
+  color: #777bb4;
+}
+.stuffs-react:before {
+  content: "\e92d";
+  color: #61dafb;
+}
+.stuffs-node-dot-js:before {
+  content: "\e92e";
+  color: #393;
+}
+.stuffs-html5:before {
+  content: "\e92f";
+  color: #e34f26;
+}
+.stuffs-javascript:before {
+  content: "\e930";
+  color: #f7df1e;
+}
 .stuffs-update:before {
   content: "\e925";
 }

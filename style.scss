@@ -26,6 +26,60 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.stuffs-css3 {
+  &:before {
+    content: $stuffs-css3;     
+    color: #1572b6;
+  }
+}
+.stuffs-sass {
+  &:before {
+    content: $stuffs-sass;     
+    color: #c69;
+  }
+}
+.stuffs-shopify {
+  &:before {
+    content: $stuffs-shopify;     
+    color: #7ab55c;
+  }
+}
+.stuffs-wordpress {
+  &:before {
+    content: $stuffs-wordpress;     
+    color: #21759b;
+  }
+}
+.stuffs-php {
+  &:before {
+    content: $stuffs-php;     
+    color: #777bb4;
+  }
+}
+.stuffs-react {
+  &:before {
+    content: $stuffs-react;     
+    color: #61dafb;
+  }
+}
+.stuffs-node-dot-js {
+  &:before {
+    content: $stuffs-node-dot-js;     
+    color: #393;
+  }
+}
+.stuffs-html5 {
+  &:before {
+    content: $stuffs-html5;     
+    color: #e34f26;
+  }
+}
+.stuffs-javascript {
+  &:before {
+    content: $stuffs-javascript;     
+    color: #f7df1e;
+  }
+}
 .stuffs-update {
   &:before {
     content: $stuffs-update; 
